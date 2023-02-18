@@ -1,0 +1,9 @@
+[default]
+mysql1 ansible_host=10.154.0.4
+haproxy1 ansible_host=10.154.0.3
+
+[mysql]
+mysql1
+
+[haproxy]
+haproxy1
